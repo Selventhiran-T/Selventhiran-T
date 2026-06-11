@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Selventhiran</h1>
+<h1 align="center">Hey there!, I'm Selventhiran</h1>
 <h3 align="center">Aspiring Python Developer | AI Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Graduate
+- 🎓 Artificial Intelligence and Data Science Graduate
 - 🐍 Aspiring Python Developer
 - 🤖 Interested in Artificial Intelligence and Machine Learning
 - 🌱 Continuously learning and working on real-world projects
